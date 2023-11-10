@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.AI.Navigation;
 using UnityEngine;
 
-namespace TrafficInfinity
+namespace ShadowChimera
 {
     public class AutoBuildNavMesh : MonoBehaviour
     {

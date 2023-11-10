@@ -4,7 +4,7 @@ using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 using UnityEngine.Serialization;
 
-namespace TrafficInfinity
+namespace ShadowChimera
 {
 	public class PlayerController : MonoBehaviour
 	{
